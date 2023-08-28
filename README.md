@@ -1,2 +1,3 @@
-# unconstrained_optimization
-Unconstrained optimization using gradient descent
+# Unconstrained Optimization
+
+Unconstrained optimization example using gradient descent
